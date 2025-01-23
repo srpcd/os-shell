@@ -9,6 +9,18 @@ Note: Some things may not work on VMWare, VirtualBox or any real machines. This 
 - NASM (Assembler)
 - QEMU (Emulator)
 
+## How to install
+To install it, downlaod NASM from here:
+- https://www.nasm.us/
+
+To test it, download QEMU from here:
+- https://www.qemu.org/download/
+
+To make things easier, install the make command from chocolatey
+- https://chocolatey.org/install
+
+Then run cmd as admin and do: `choco install make`
+
 ## Commands
 - help (sends the help message)
 - cls (clears the screen)
