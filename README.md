@@ -17,4 +17,9 @@ Note: Some things may not work on VMWare, VirtualBox or any real machines. This 
 
 ### If you type an invalid keyword it will say "Invalid command".
 
-
+<div>
+  <img src="img/help.png"></img>
+  <img src="img/invalid.png"></img>
+  <img src="img/halt.png"></img>
+  
+</div>
