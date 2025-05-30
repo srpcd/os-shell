@@ -5,7 +5,6 @@ Note: Some things may not work on VMWare, VirtualBox or any real machines. This 
 
 ## What I used
 - Make (downloaded from chocolatey)
-- Notepad++
 - NASM (Assembler)
 - QEMU (Emulator)
 
