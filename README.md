@@ -1,4 +1,6 @@
 # os-shell
+Updated Shell + kernel: https://github.com/srpcd/teros
+
 A basic shell OS made in assembly. Can be booted as an OS.
 
 Note: Some things may not work on VMWare, VirtualBox or any real machines. This is because it can't read pointers from the bootloader.
